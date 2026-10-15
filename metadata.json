@@ -1,0 +1,6 @@
+{
+  "name": "QuizNova",
+  "description": "Online quiz and performance management system with precision analytics, timed exams, and Java curriculum mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
